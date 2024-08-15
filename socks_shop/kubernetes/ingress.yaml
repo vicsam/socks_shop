@@ -6,7 +6,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-    - host: capstone.ogdmerlin.xyz
+    - host: capstone.vctr.xyz
       http:
         paths:
           - pathType: Prefix
